@@ -1,0 +1,41 @@
+
+{
+    "009604d6-b5ee-11e8-96f8-529269fb1459":[
+        {
+        "device_id": "1c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"2020-01-01-T13:00Z",
+        "gps": {
+            "lat": "41.3939376",
+            "lng": "2.170551",
+            "speed": "9.05",
+            "accuracy": "5.5",
+            "hdop": ""
+        },
+        "charge": "0,8",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "trip_id":"3d9604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "start_service_date":"2019-12-01-T13:00Z",
+        "start_status_date":"2020-01-01-T13:00Z",
+        "assigned_license":"WDA12456"
+      },
+      {
+        "device_id": "0c9604d6-b5ee-11e8-96f8-529269fb1459",
+        "timestamp":"2020-01-01-T13:01Z",
+        "gps": {
+            "lat": "41.3952685",
+            "lng": "2.1647746",
+            "speed": "10.5",
+            "accuracy": "7.5",
+            "hdop": ""
+        },
+        "charge": "0,75",
+        "provider_id":"3c0004d6-b5ee-11e8-96f8-529269fb1459",
+        "trip_id":"409604d6-b5ee-11e8-96f8-529269fb1459",
+        "vehicle_status": "available",
+        "start_service_date":"2019-12-01-T13:00Z",
+        "status_start_date":"2020-01-01-T13:00Z",
+        "assigned_license":"XXA100001"
+      }
+    ]
+}
