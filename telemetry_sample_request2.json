@@ -1,0 +1,12 @@
+{
+	"offset":"0",
+	"limit":"2",
+	"vehicle_id":[],
+	"device_id":["0c9604d6-b5ee-11e8-96f8-529269fb1459"],
+	"from_date":"2020-01-01T19:30Z",
+	"to_date":"2020-01-02T20:00Z",
+	"vehicle_status":"available",
+	"trip_id":"3d9604d6-b5ee-11e8-96f8-529269fb1459",
+	"now":"0",
+	"assigned_license":[]
+}
